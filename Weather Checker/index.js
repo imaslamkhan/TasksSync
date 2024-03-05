@@ -23,7 +23,7 @@ const fetchData = async (target) => {
     const response = await fetch(url);
     const data = await response.json();
 
-    console.log(data) // Isko dekh samjh jayenga niche ka program
+    console.log(data) 
 
     // Destructuring
     const {

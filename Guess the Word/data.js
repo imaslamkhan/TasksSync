@@ -12,7 +12,7 @@ const wordList = [
         hint: "What comes after Sunday"
     },
     {
-        word: "email",
+        word: "emaill",
         hint: "related to sending message"
     },
     {

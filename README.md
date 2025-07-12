@@ -1,1 +1,1 @@
-# TasksSync
+# Syncass Technologies
